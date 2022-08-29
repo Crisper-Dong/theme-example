@@ -31,9 +31,9 @@
 #body-login {
 	/* Login background image */
 	background-image: url("../img/background.jpg") !important;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
 	/* End of using background image */
 	background: #745bca; /* Old browsers */
 	background: -moz-linear-gradient(top, #947bea 0%, #745bca 100%); /* FF3.6+ */
